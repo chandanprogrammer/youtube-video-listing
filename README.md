@@ -1,5 +1,7 @@
 # YouTube Video Listing
 
+![alt text](./images/image.png)
+
 Live Project Link - [https://chandanprogrammer.github.io/youtube-video-listing]
 
 ## Overview
